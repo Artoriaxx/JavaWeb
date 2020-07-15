@@ -60,7 +60,7 @@ public class ChatFrame extends JFrame {
                     }
                 }, 0, 1000);
         time.setPreferredSize(new Dimension(400, 50));
-        JLabel welcome = myJLabel("学生，" + Data.me.getName() + "欢迎您");
+        JLabel welcome = myJLabel("学生:" + Data.me.getName() + "，欢迎您");
         welcome.setPreferredSize(new Dimension(400, 50));
         msgPanel.add(welcome, BorderLayout.NORTH);
         msgPanel.add(time, BorderLayout.SOUTH);

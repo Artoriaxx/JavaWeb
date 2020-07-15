@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76546b21-64d8-4434-9394-34699f17374c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../聊天室/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/ui/ChatFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/ui/ChatFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../聊天室/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../聊天室/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../聊天室/out/production/聊天室/META-INF/聊天室.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +133,7 @@
       <workItem from="1594792677627" duration="3412000" />
       <workItem from="1594796792282" duration="35000" />
       <workItem from="1594799543866" duration="286000" />
+      <workItem from="1594800173435" duration="76000" />
     </task>
     <servers />
   </component>
@@ -146,7 +145,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
